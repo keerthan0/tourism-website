@@ -1,3 +1,14 @@
+﻿# Hacktober Fest 2021
+### How to contribute 😎<br>
+
+* Star this repository
+* Select your part and program to add in this repository. Don't copy paste ,try to add your codes
+* Create an issue with description about the thing you want to add and wait for approval.
+* note creat only one issue at once, afer successful pull request create another issue (if you have any).
+* Then fork this repository.
+* In forked repository select the topic folder where you want to add the code.
+* Make your pull request after adding the program 
+* Wait for review.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
